@@ -1,0 +1,8 @@
+.round-ing{
+    width: 90vh;
+    height: 90vh;
+
+    border-radius: 200%;
+
+    object-fit: cover;
+}
