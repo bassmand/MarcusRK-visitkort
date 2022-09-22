@@ -1,0 +1,21 @@
+.gallery{
+    width: 70;
+    margin: 0 auto;
+
+    flex-direction: row;
+
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.gallery article{
+    width: 80vh;
+}
+
+
+.gallery article img{
+    width: 100%;
+    height: 40vh;
+
+    object-fit:cover;
+}
